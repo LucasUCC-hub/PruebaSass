@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+@use "sass:math" {}.p1 {
+  padding: 1rem; }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+html {
+  padding: 2rem;
+  background-color: #fff; }
+
+body {
+  color: #fff;
+  background: #206e24;
+  box-shadow: 0 0 5px 5px rgba(32, 110, 36, 0.25);
+  padding: 2rem; }

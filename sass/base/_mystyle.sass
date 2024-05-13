@@ -1,0 +1,29 @@
+@use "sass:math"
+
+$bg_color: #206e24
+
+%p1
+    padding: 1rem
+
+.p1
+    @extend %p1
+    
+
+%flex-center
+    display: flex
+    justify-content: center
+    align-items: center
+    
+@mixin theme($theme: DarkGray)
+    color: #fff
+    background: $theme
+    box-shadow: 0 0 5px 5px rgba($theme, .25)
+    padding: 2rem
+    
+html
+    padding: 2rem
+    background-color: #fff
+
+body
+    @extend %flex-center
+    @include theme($bg_color)
