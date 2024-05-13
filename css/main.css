@@ -6,17 +6,12 @@
 @use "sass:math" {}.p1 {
   padding: 1rem; }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center; }
-
 html {
   padding: 2rem;
-  background-color: #fff; }
+  background-color: #15161f; }
 
 body {
   color: #fff;
-  background: #206e24;
-  box-shadow: 0 0 5px 5px rgba(32, 110, 36, 0.25);
+  background: #2f2e35;
+  box-shadow: .5rem 0.5rem .5rem .5rem #00000063;
   padding: 2rem; }
