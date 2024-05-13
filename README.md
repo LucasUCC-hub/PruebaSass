@@ -1,5 +1,7 @@
 # PruebaSass
 
+[Link al GitHub Pages](https://lucasucc-hub.github.io/SASS-BS5/)
+
 ## Editar el proyecto
 - Instalar **nodejs** y **npm** previamente
 
@@ -11,7 +13,7 @@ Ahora puedes editar sass/base, añadir tus archivos a sass/main.sass y se compil
 Las librerias de bootstrap se añadieron via cdn por <link>
 
 ## Fuentes
-[Bootstrap5](https://getbootstrap.com/)
-[Sass](https://sass-lang.com/documentation/)
-[Buenas practicas CSS: BEM](https://animaticss.com/articulo/que-es-bem-css/)
+- [Bootstrap5](https://getbootstrap.com/)
+- [Sass](https://sass-lang.com/documentation/)
+- [Buenas practicas CSS: BEM](https://animaticss.com/articulo/que-es-bem-css/)
 
